@@ -1,4 +1,4 @@
-looking online for a dataset to look into, I found this AllSets-x.json file which has all of the cards created for the card game Magic the Gather with their information. 
+looking online for a dataset to look into, I found this AllSets-x.json file which has all of the cards created for the card game Magic the Gathering with their information. 
 
 Link to dataset download https://www.kaggle.com/datasets/mylesoneill/magic-the-gathering-cards/versions/1/data
 
@@ -22,10 +22,11 @@ Answers to the above:
 1) Which Artsit has the most cards in Alpha? - Dan Frazier is the artist that has the most art in Alpha with 37 unique cards
 2) How many cards in Alpha are on the reserve list? - There are 48 cards on the reserve list. Thats 16.0% of all cards in Alpha
 3) which color has the most cards in Alpha? - W is the most commom color in Alpha with 52. Thats 18.0% of all cards in Alpha
-4) How many of each card type is there? - 1	Creature	88
-                                          2	Enchantment	68
-                                          3	Artifact	47
-                                          4	Instant	    43
-                                          5	Sorcery	    30
-                                          6	Land	    14
-5) what is the most reprinted card - Swamp is the most reprinted card in Alpha with 96 reprints.
+4) How many of each card type is there?
+   Creatures:	88
+   Enchantment: 68
+   Artifacts:	47
+   Instants: 43
+   Sorceries: 30
+   Lands: 14
+6) what is the most reprinted card - Swamp is the most reprinted card in Alpha with 96 reprints.
